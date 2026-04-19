@@ -1,36 +1,36 @@
 @import "tailwindcss";
 
 @theme {
-  /* ── Bright cyan primary — ClearDefense brand ── */
-  --color-primary: hsl(191 97% 47%);
+  /* ── Deep teal primary — King Of Kings Fence brand ── */
+  --color-primary: hsl(190 100% 18%);
   --color-primary-foreground: hsl(0 0% 100%);
 
-  /* ── Warm orange accent — stands out on cyan ── */
-  --color-accent: hsl(29 96% 57%);
-  --color-accent-foreground: hsl(191 97% 47%);
+  /* ── Warm bronze accent — stands out on teal ── */
+  --color-accent: hsl(29 47% 48%);
+  --color-accent-foreground: hsl(0 0% 100%);
 
   /* ── Surfaces ── */
-  --color-background: hsl(0 0% 96%);
-  --color-foreground: hsl(220 10% 23%);
+  --color-background: hsl(210 20% 97%);
+  --color-foreground: hsl(215 25% 15%);
   --color-card: hsl(0 0% 100%);
-  --color-card-foreground: hsl(220 10% 23%);
+  --color-card-foreground: hsl(215 25% 15%);
   --color-popover: hsl(0 0% 100%);
-  --color-popover-foreground: hsl(220 10% 23%);
+  --color-popover-foreground: hsl(215 25% 15%);
 
   /* ── Secondary & muted ── */
-  --color-secondary: hsl(183 100% 34%);
+  --color-secondary: hsl(198 100% 32%);
   --color-secondary-foreground: hsl(0 0% 100%);
   --color-muted: hsl(190 20% 93%);
-  --color-muted-foreground: hsl(220 10% 40%);
+  --color-muted-foreground: hsl(215 15% 40%);
 
   /* ── Destructive stays red ── */
   --color-destructive: hsl(0 84% 60%);
   --color-destructive-foreground: hsl(0 0% 100%);
 
   /* ── Borders & inputs ── */
-  --color-border: hsl(190 30% 88%);
-  --color-input: hsl(190 30% 88%);
-  --color-ring: hsl(191 97% 47%);
+  --color-border: hsl(190 20% 85%);
+  --color-input: hsl(190 20% 85%);
+  --color-ring: hsl(190 100% 18%);
 
   /* ── Radii ── */
   --radius-sm: 0.25rem;
